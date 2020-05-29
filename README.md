@@ -1,2 +1,2 @@
 # Udacity-project-1
- Pre-trained Image Classifier to Identify Dog Breeds
+Performance evaluation of three pre-trained models (VGG, Alexnet, Resnet) in classifying dog breeds 
